@@ -1,0 +1,24 @@
+{
+  "name": "transfer-function",
+  "version": "1.0.0",
+  "description": "My first node for node-red",
+  "main": "trasfer-fnc.js",
+  "scripts": {
+    "test": "tranfct"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "node-red",
+    "transfer-function"
+  ],
+  "node-red" : {
+    "nodes": {
+        "lower-case": "trasfer-fnc.js"
+    }
+  },
+  "author": "ChoboZilla",
+  "license": "ISC"
+}
